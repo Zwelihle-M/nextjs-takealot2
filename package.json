@@ -10,9 +10,11 @@
   },
   "dependencies": {
     "@headlessui/react": "^1.7.7",
+    "@heroicons/react": "^2.0.13",
     "@paypal/react-paypal-js": "^7.8.2",
     "@types/react": "^18.0.26",
     "axios": "^1.2.2",
+    "bcryptjs": "^2.4.3",
     "bcryptjs-react": "^2.4.6",
     "chart.js": "^4.1.2",
     "cloudinary": "^1.33.0",
